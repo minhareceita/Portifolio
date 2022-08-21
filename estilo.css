@@ -1,0 +1,155 @@
+body{
+margin: 0%;
+padding: 0%;
+    background-color: black;
+    color: white;
+    font-family: Arial;
+}
+
+.logo{
+    
+   
+    
+}
+
+.logo h1{
+    font-size: 20px;
+    margin-left: 50%;
+    
+}
+nav ul{
+    display: flex;
+    list-style-type: none;
+    align-items: center;
+    margin-left: 50%;
+ 
+    
+}
+
+nav li{
+  
+  margin-left: 10%;
+   
+}
+
+nav a{
+    color: white;
+    text-decoration: none;
+}
+
+nav a:hover{
+color: greenyellow;
+}
+header img{
+    width: 500px;
+    height: 500px;
+    border-radius: 50%;
+   
+}
+
+header li{
+    margin-left: 10%;
+}
+
+
+header ul{
+    display: flex;
+    list-style-type: none;
+    align-items: center;
+    margin-left: 50%;
+    
+ 
+    
+}
+.conteudo{
+    margin-right: 40%;
+    margin-top: 5%;
+}
+
+header h1 {
+    font-size: 66px;
+    color: greenyellow;
+}
+
+article {
+    background-color: greenyellow;
+    display: flex;
+  padding: 3% 0% 6% 0%;
+    list-style-type: none;
+   
+}
+
+article ul{
+   margin-top: 6%;
+}
+
+article  li{
+    
+    list-style-type: none;
+}
+article h1{
+font-size: 66px;
+
+}
+article h2 {
+    
+    color: black;
+   font-size: 30px;
+}
+
+article p{
+    color: black;
+}
+.trabalho {
+    margin-bottom: 10%;
+    color: black;
+    margin-left: 6%;
+}
+
+aside{
+
+   margin-left: 5%;
+   margin-top: 10%;
+   margin-bottom: 5%;
+}
+
+aside ul{
+       list-style-type: none;
+      
+}
+
+aside h1{
+    color: greenyellow;
+}
+
+footer{
+    background-color: greenyellow;
+    color: black;
+    
+    
+   
+    
+ 
+}
+footer ul{
+    list-style-type: none;
+    margin-left: 40%;
+    display: flex;
+    
+  
+  
+}
+
+footer li{
+  padding: 5% 5% 2% 0%;
+}
+footer a {
+    text-decoration: none;
+    color: black;
+}
+   
+footer p{
+    margin-left: 40%;
+  }
+
+
